@@ -14,16 +14,15 @@
 <br />
 
 <div>
-  <h2>About me:</h2>
+  <h2>:book: About me:</h2>
   <p>Hi, I'm Daniil Zhirkevich, high school student and a Python Backend Developer. I've been learning backend development for over 7 months. I've worked with microservice architecture, have experience in teamwork, and am the author of project ideas such as <a href="https://github.com/Vae1ocks/SkillsOn">SkillsOn</a> and <a href="https://github.com/Vae1ocks/Shop">Shop</a>, where I assembled the team and coordinated joint work.</p>
 </div>
 
 <br />
 
 <div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <!-- Блок с Talking about Personal Stuff -->
   <div style="width: 50%;">
-    <h3>Talking about Personal Stuff:</h3>
+    <h2>🔨 Talking about Personal Stuff:</h2>
     <ul>
       <li>🛠 I'm currently working with Python, Django</li>
       <li>🚀 I'm currently exploring FastAPI, SQLAlchemy</li>
