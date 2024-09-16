@@ -3,11 +3,11 @@
 </div>
 
 <div align="center">
-  <a href="https://github.com/Vae1ocks">
-    <img alt="Static Badge" src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://www.linkedin.com/in/daniil-zhirkevich-673b57322/">
+    <img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="https://t.me/lzjs24">
-    <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" />
+    <img alt="Static Badge" src="https://img.shields.io/badge/Telegram-%2300BFFF?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
 </div>
 
